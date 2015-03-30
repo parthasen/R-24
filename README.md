@@ -1,4 +1,4 @@
 R
 =
 
-R code created for my classes at JHSPU &amp; MIT
+R code created for my classes at JHSPH &amp; MIT
